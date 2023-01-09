@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Mario
-<h3> I'm Creative Developer and Sales Specialist Originally from Nigeria, Living in Canada while learning and working in web development and Sales. I enjoy thinking outside the box and solving problems stratigically. I'm well experienced with Canva Deisgn Tools also.</h3>
+<h3> A Creative Developer and Sales Specialist Originally from Nigeria, Living in Canada while learning and working in web development and Sales. I enjoy thinking outside the box and solving problems stratigically. I'm well experienced with Canva Deisgn Tools also.</h3>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
